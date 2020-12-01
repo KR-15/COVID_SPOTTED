@@ -7,7 +7,7 @@ de 1341 clichés radiographiques de patients positifs à une infection virale re
 de la COVID-19 et finalement 1345 clichés radiographiques de patients sains. Il est à noté que ce projet a été entièrement réalisé sous le langage de programmation Python et 
 grâce à l'utilisation de librairies utiles à l'avancée de ce projet.
 
-Base de donnée construite par l'équipe de recherche cidessous:
+Base de données construite par l'équipe de recherche cidessous:
 
 M.E.H. Chowdhury, T. Rahman, A. Khandakar, R. Mazhar, M.A. Kadir, Z.B. Mahbub, K.R. Islam, M.S. Khan, A. Iqbal, N. Al-Emadi, M.B.I. Reaz, M. T. Islam, 
 “Can AI help in screening Viral and COVID-19 pneumonia?” IEEE Access, Vol. 8, 2020, pp. 132665 - 132676.
