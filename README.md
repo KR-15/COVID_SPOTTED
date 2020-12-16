@@ -1,6 +1,6 @@
 # COVID_SPOTTED
 
-L'objectif de ce projet à été de se familiariser à la création d'un modèle d'apprentissage supervisé profond (deep learning) pour la détection automatique 
+L'objectif de ce projet a été de se familiariser à la création d'un modèle d'apprentissage supervisé profond (deep learning) pour la détection automatique 
 de patients atteints de la COVID-19 en maximisant la précision de détection. Pour cela, une base de données publique a été utilisée 
 (https://www.kaggle.com/tawsifurrahman/covid19-radiography-database) contenant un mélange de 219 clichés radiographiques de patients positifs au COVID-19, 
 de 1341 clichés radiographiques de patients positifs à une infection virale respiratoire déclenchée par un autre virus (toujours à tropisme pulmonaire) qui est à l'origine
